@@ -1,10 +1,11 @@
 {
     "latest_version": "1.0.0",
-    "is_server_on": ture,
+    "is_server_on": true,
     "notice": "정상 가동 중입니다.",
     "download_url": "https://github.com/사용자명/저장소명/releases"
 
 }
+
 
 
 
