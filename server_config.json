@@ -1,8 +1,9 @@
 {
     "latest_version": "1.0.0",
-    "is_server_on": true,
+    "is_server_on": false,
     "notice": "정상 가동 중입니다.",
     "download_url": "https://github.com/사용자명/저장소명/releases"
 
 }
 //서버종료시 false 서버온일시 true
+
